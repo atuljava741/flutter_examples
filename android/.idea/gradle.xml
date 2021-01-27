@@ -5,15 +5,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/../../../../flutter-2/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.2.5+1/android" />
-            <option value="$PROJECT_DIR$/../../../../flutter-2/.pub-cache/hosted/pub.dartlang.org/firebase_database-1.0.3/android" />
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-          </set>
-        </option>
         <option name="resolveModulePerSourceSet" value="false" />
+        <option name="testRunner" value="PLATFORM" />
       </GradleProjectSettings>
     </option>
   </component>
